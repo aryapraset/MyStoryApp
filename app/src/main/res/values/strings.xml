@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Bagikan pengalaman kamu selama belajar di Dicoding!</string>
+    <string name="title_welcome_page">Dicoding Story App</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="empty_email">Email Kosong</string>
+    <string name="invalid_email">Email Salah</string>
+    <string name="password">Password</string>
+    <string name="empty_password">Password Kosong</string>
+    <string name="lenght_password">Password Harus terdiri dari 6 karakter</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk membagikan ceritamu?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2021 Dicoding</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="halaman_register">Halaman Register</string>
+    <string name="registration_failed">Registrasi gagal</string>
+</resources>
