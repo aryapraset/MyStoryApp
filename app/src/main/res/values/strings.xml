@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">MyStoryApp</string>
 
+    <string name="sample_email">2022@bangkit.com</string>
+
     <string name="signup">Daftar</string>
     <string name="login">Masuk</string>
     <string name="message_welcome_page">Bagikan pengalaman kamu selama belajar di Dicoding!</string>
@@ -21,4 +23,22 @@
     <string name="logout">Keluar</string>
     <string name="halaman_register">Halaman Register</string>
     <string name="registration_failed">Registrasi gagal</string>
+    <string name="item_image_desc">Item Story Image</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="user_id_title">User Id</string>
+    <string name="sample_id">12345678</string>
+    <string name="tambahkan_story">Tambahkan Story</string>
+    <string name="image_upload_desc">Image Upload Description</string>
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALERY</string>
+    <string name="story_desc">Desription Story</string>
+    <string name="upload_story">Upload Story</string>
 </resources>

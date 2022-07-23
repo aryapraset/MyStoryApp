@@ -13,13 +13,13 @@ import retrofit2.Response
 
 class LoginViewModel(private val pref: UserPreference) : ViewModel(){
     private val _loginUser = MutableLiveData<Boolean>()
-    val loginUser: LiveData<Boolean> = _loginUser
+    val loginUser: MutableLiveData<Boolean> = _loginUser
 
     private val _isLoading = MutableLiveData<Boolean>()
-    val isLoading: LiveData<Boolean> = _isLoading
+    val isLoading: MutableLiveData<Boolean> = _isLoading
 
     private val _isError = MutableLiveData<Boolean>()
-    val isError: LiveData<Boolean> = _isError
+    val isError: MutableLiveData<Boolean> = _isError
 
     fun login(body: LoginBody){
         _isLoading.value = true

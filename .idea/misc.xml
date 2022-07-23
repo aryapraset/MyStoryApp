@@ -5,9 +5,14 @@
       <map>
         <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1665" />
         <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/activity_profile_user.xml" value="0.1" />
         <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/activity_story_upload.xml" value="0.14666666666666667" />
         <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/activity_welcome.xml" value="0.22" />
+        <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/item_story.xml" value="0.4298850574712644" />
+        <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/layout/item_story_shimmer.xml" value="0.22" />
+        <entry key="..\:/AndroidProject/MyStoryApp/app/src/main/res/menu/option_menu.xml" value="0.22" />
       </map>
     </option>
   </component>

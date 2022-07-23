@@ -14,10 +14,10 @@ import retrofit2.Response
 
 class RegisterViewModel(pref: UserPreference) : ViewModel() {
     private val _registeredUser = MutableLiveData<Boolean>()
-    val registeredUser: LiveData<Boolean> = _registeredUser
+    val registeredUser: MutableLiveData<Boolean> = _registeredUser
 
     private val _isLoading = MutableLiveData<Boolean>()
-    val isLoading: LiveData<Boolean> = _isLoading
+    val isLoading: MutableLiveData<Boolean> = _isLoading
 
     private val _isError = MutableLiveData<Boolean>()
     val isError: MutableLiveData<Boolean> = _isError

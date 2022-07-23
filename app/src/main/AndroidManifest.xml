@@ -23,6 +23,12 @@
             android:name=".view.login.LoginActivity"
             android:exported="false" />
         <activity
+            android:name=".view.uploadstory.StoryUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.profile.ProfileUserActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.main.MainActivity"
             android:exported="true">
             <intent-filter>
